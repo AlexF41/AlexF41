@@ -83,12 +83,6 @@
 </p> -->
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/max-passion/-github-readme-stats/tree/main"><img alt="DAVID-KASILAG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=max-passion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/max-passion/-github-readme-stats/tree/main"><img alt="DAVID-KASILAG's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-passion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
 ## 📈 Activity Graph
 
 [![David Kasilag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=max-passion&theme=react-dark)](https://github.com/max-passion)
